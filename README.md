@@ -50,7 +50,8 @@ the previous one:
 ### Page 1: Workforce Overview
 ![Workforce Overview](Page1_Workforce_Overview.png.png)
 ### Page 2: Attrition & Retention
-![Attrition Retention](Page 2_Attrition_Retention.png)
+![Attrition Retention](Page2_Attrition_Retention.png.png)
+
 
 ### Page 3: Compensation & Performance
 ![Compensation Performance](Page 3_Compensation_Performance.png)
