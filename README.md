@@ -48,13 +48,13 @@ the previous one:
 ##  Dashboard Preview
 
 ### Page 1: Workforce Overview
-![Workforce Overview](Page1_Workforce_Overview)
+![Workforce Overview](Page1_Workforce_Overview.png)
 
 ### Page 2: Attrition & Retention
-![Attrition Retention](Page 2_Attrition_Retention)
+![Attrition Retention](Page2_Attrition_Retention.png)
 
 ### Page 3: Compensation & Performance
-![Compensation Performance](Page 3_Compensation_Performance)
+![Compensation Performance](Page3_Compensation_Performance.png)
 
 ##  Key Insights & Recommendations
 
