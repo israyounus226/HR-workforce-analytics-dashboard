@@ -51,10 +51,8 @@ the previous one:
 ![Workforce Overview](Page1_Workforce_Overview.png.png)
 ### Page 2: Attrition & Retention
 ![Attrition Retention](Page2_Attrition_Retention.png.png)
-
-
 ### Page 3: Compensation & Performance
-![Compensation Performance](Page 3_Compensation_Performance.png)
+![Compensation Performance]Page3_Compensation_Performance.png.png)
 ##  Key Insights & Recommendations
 
 1. **Reduce overtime dependency** : Employees working overtime show approximately 
